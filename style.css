@@ -1,0 +1,33 @@
+img{
+ box-shadow: 10px 10px 5px 0px #000;
+ margin-bottom: 15px;
+ margin-left: 10px;
+}
+
+p{
+    color: rgba(116, 139, 12, 0.747);
+    padding-left: 10px;
+}
+
+.overskriftH1{
+    color: rgba(116, 139, 12, 0.747)
+}
+
+#menu{
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+nav a{
+    color: rgba(84, 181, 219, 0.747)
+}
+
+*{
+    font-family: cursive;
+}
+
+div{
+    background-color: rgb(241, 229, 229);
+}
+
+
