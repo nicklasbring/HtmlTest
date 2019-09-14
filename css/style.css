@@ -1,7 +1,5 @@
-img{
+#profilbillede{
  box-shadow: 10px 10px 5px 0px #000;
- margin-bottom: 15px;
- margin-left: 10px;
 }
 
 p{
@@ -10,12 +8,15 @@ p{
 }
 
 .overskriftH1{
-    color: rgba(116, 139, 12, 0.747)
+    color: rgba(116, 139, 12, 0.747);
+    text-align: center;
+    
 }
 
 #menu{
     font-weight: bold;
     margin-left: 5px;
+    color: rgba(116, 139, 12, 0.747);
 }
 
 nav a{
@@ -23,11 +24,15 @@ nav a{
 }
 
 *{
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 div{
     background-color: rgb(241, 229, 229);
+}
+
+.social{
+    
 }
 
 
