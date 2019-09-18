@@ -1,0 +1,15 @@
+button {
+    font-size: 15px;
+  }
+  
+  #calculator {
+    color: grey;
+  }
+  
+  #res {
+    color: green;
+  }
+  
+  .row {
+    margin: 7px;
+  }
